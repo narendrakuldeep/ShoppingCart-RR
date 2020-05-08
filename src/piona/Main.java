@@ -6,7 +6,7 @@ package piona;
 public class Main {
     
     /**
-     * Application entry point.
+     * Application Main Class.
      * 
      * @param args Application arguments.
      */
